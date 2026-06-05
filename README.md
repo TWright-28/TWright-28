@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Tanner Wright 👋</h1>
+<h1 align="center">Hi, I'm Tanner Wright </h1>
 
 <p align="center">
-  <em>MSc Computer Science @ UBC • LLM Agents & Empirical Software Engineering Researcher</em>
+  <em>MSc Computer Science @ UBC • Empirical Software Engineering Researcher</em>
 </p>
 
 <p align="center">
@@ -12,25 +12,16 @@
 
 ---
 
-## 🧑‍🔬 About Me
+## About Me
 
-I'm a Master's student at the **University of British Columbia** researching **LLM agents** and **empirical software engineering**. My work focuses on building autonomous research platforms and large-scale empirical studies of the open-source ecosystem.
+I'm a Master's student at the **University of British Columbia** researching **LLM agents** with **empirical software engineering**. My work focuses on understanding extrinsic bugs and how the behave and are dealt with within the npm ecosystem.
 
-- 🔭 Currently building **Extrinsic Agent**, an autonomous LLM research platform for bug provenance analysis
-- 📚 Writing my MSc thesis on **intrinsic vs. extrinsic bug provenance in the npm ecosystem**
-- 🎓 TA for Software Engineering & Capstone courses — mentored 600+ students
-- ⚡ Fun fact: I once classified **69,000+ GitHub issues** to study how bugs evolve over time
-
----
-
-## Current Research
-
-```yaml
-focus:        LLM Agents · Empirical SE · Bug Classification
-methods:      Few-shot LLM pipelines · Survival analysis · Mixed-effects models
-stack:        LangGraph · Python · SQLite · Qwen3 · Gemini 2.5 · gpt-oss
-status:       MSc thesis in progress (defense Aug 2026)
-```
+-  Developed an **Extrinsic Agent**, an autonomous LLM research platform for bug collection, classification and analysis for researchers
+-  Performed an Emperical analyis of Extrinsic bugs within the NPM ecosystem, found that for every direct dependency, odds of introducing an Extrinsic bug are increased by 1.1%
+-  Created the first benchmark of Intrinsic, Extrinsic and Not a bug - *Published in MSR 2026*
+-  Finishing my MSc thesis on **An emperical study of Extrinsic bugs within the npm ecosystem**
+-  TA for Software Engineering & Capstone courses
+-  
 
 ---
 
@@ -38,14 +29,23 @@ status:       MSc thesis in progress (defense Aug 2026)
 
 | Year | Venue | Title |
 |------|-------|-------|
+| 2025 | **EMSE  2025** *(Under Review)* | N/A |
 | 2025 | **MSR 2026** | [InEx-Bug: Dataset for Intrinsic vs. Extrinsic Bug Classification in the NPM Ecosystem](https://github.com/InExBug) |
-| 2026 | **ESEM 2026** *(under review)* |  |
+| 2026 | **ESEM 2026** *(Under Review)* | N/A |
+
+### Planned Submissions
+| Year | Venue | Title |
+|------|-------|-------|
+| 2027 | **ICSE 2027 - Main Research Track** *(In Development)* | N/A |
+| 2027 | **ICSE 2027 - Data and Tool Track** *(Completed)* | N/A |
+| 2027 | **CHASE 2027** *(In Development)* | N/A |
+
 
 ---
 
 ##  Tech Stack
 
-**Languages**
+**Languages I am Familiar with**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)

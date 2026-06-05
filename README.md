@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanner Wright </h1>
 
 <p align="center">
-  <em>MSc Computer Science @ UBC • Empirical Software Engineering Researcher</em>
+  <em>MSc Computer Science @ UBC - Empirical Software Engineering Research</em>
 </p>
 
 <p align="center">

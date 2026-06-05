@@ -42,22 +42,4 @@ I'm a Master's student at the **University of British Columbia** researching **L
 
 
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWright-28&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-##  Pinned Projects
-
-🔹 **[Extrinsic Agent](https://github.com/TWright-28)** — Conversational LLM research agent (LangGraph + SQLite) with a swappable, model-agnostic three-layer architecture for autonomous bug analysis.
-
-🔹 **[InEx-Bug Dataset](https://github.com/InExBug)** — First benchmark for intrinsic vs. extrinsic bug classification: 377 annotated GitHub issues with a reproducible metadata extraction pipeline.
-
-🔹 **[GEMS]()** — Full-stack emergency management system (Laravel + Vue.js + MySQL) with OpenLayers mapping, 100+ PestPHP tests, and Docker CI/CD.
-
----
-
-<p align="center"><em>Always happy to chat about LLM agents, empirical SE, or research tooling — reach out!</em></p>
+<p align="center"><em>Always looking to collaborate on projects or papers, feel free to reach out !</em></p>

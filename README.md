@@ -100,11 +100,6 @@ I'm a Master's student at the **University of British Columbia** researching **L
 ##  GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWright-28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWright-28&layout=compact&theme=tokyonight&hide=html" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWright-28&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
@@ -116,7 +111,7 @@ I'm a Master's student at the **University of British Columbia** researching **L
 
 🔹 **[InEx-Bug Dataset](https://github.com/InExBug)** — First benchmark for intrinsic vs. extrinsic bug classification: 377 annotated GitHub issues with a reproducible metadata extraction pipeline.
 
-🔹 **GEMS** — Full-stack emergency management system (Laravel + Vue.js + MySQL) with OpenLayers mapping, 100+ PestPHP tests, and Docker CI/CD.
+🔹 **[GEMS]()** — Full-stack emergency management system (Laravel + Vue.js + MySQL) with OpenLayers mapping, 100+ PestPHP tests, and Docker CI/CD.
 
 ---
 

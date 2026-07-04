@@ -32,11 +32,11 @@ I'm a Master's student at the **University of British Columbia** researching **L
 | 2025 | **EMSE  2025** *(Under Review)* | N/A |
 | 2025 | **MSR 2026** | [InEx-Bug: Dataset for Intrinsic vs. Extrinsic Bug Classification in the NPM Ecosystem](https://github.com/InExBug) |
 | 2026 | **ESEM 2026** *(Under Review)* | N/A |
+| 2027 | **ICSE 2027 - Main Research Track** *(In Development)* | N/A |
 
 ### Planned Submissions
 | Year | Venue | Title |
 |------|-------|-------|
-| 2027 | **ICSE 2027 - Main Research Track** *(In Development)* | N/A |
 | 2027 | **ICSE 2027 - Data and Tool Track** *(Completed)* | N/A |
 | 2027 | **CHASE 2027** *(In Development)* | N/A |
 

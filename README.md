@@ -29,16 +29,10 @@ I'm a recent Master's graduate at the **University of British Columbia** researc
 
 | Year | Venue | Title |
 |------|-------|-------|
-| 2025 | **EMSE  2025** *(Under Review)* | N/A |
 | 2025 | **MSR 2026** | [InEx-Bug: Dataset for Intrinsic vs. Extrinsic Bug Classification in the NPM Ecosystem](https://github.com/InExBug) |
-| 2027 | **ICSE 2027 - Main Research Track** *(Under Reivew)* | N/A |
-
-### Planned Submissions
-| Year | Venue | Title |
-|------|-------|-------|
-| 2026 | **MSR 2027** *(In Development)* | N/A |
-| 2027 | **ICSE 2027 - Data and Tool Track** *(Completed)* | N/A |
-| 2027 | **CHASE 2027** *(In Development)* | N/A |
+| 2026 | **MSR 2027** *(Under Review)* | N/A |
+| 2027 | **MSR 2027 - Data and Tool Track** *(Under Review)* | N/A |
+| 2027 | **CHASE 2027** *(Under Review)* | N/A |
 
 
 

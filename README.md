@@ -30,7 +30,7 @@ I'm a recent Master's graduate at the **University of British Columbia** researc
 | Year | Venue | Title |
 |------|-------|-------|
 | 2025 | **MSR 2026** | [InEx-Bug: Dataset for Intrinsic vs. Extrinsic Bug Classification in the NPM Ecosystem](https://github.com/InExBug) |
-| 2026 | **Arxiv** ** | [An Empirical Study on Improving LLM-Based Issue Classification through Domain-Informed Analysis](https://arxiv.org/abs/2611.13470) |
+| 2026 | **Arxiv** | [An Empirical Study on Improving LLM-Based Issue Classification through Domain-Informed Analysis](https://arxiv.org/abs/2611.13470) |
 | 2027 | **MSR 2027** *(Under Review)* | N/A |
 | 2027 | **MSR 2027 - Data and Tool Track** *(Under Review)* | N/A |
 | 2027 | **CHASE 2027** *(Under Review)* | N/A |
